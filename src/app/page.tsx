@@ -1,6 +1,6 @@
 import React from 'react';
 import Image from 'next/image';
-import { ArrowRight, MapPin, ShieldCheck, Mail, Phone, Menu } from 'lucide-react';
+import { ArrowRight, MapPin, ShieldCheck, Mail, Phone} from 'lucide-react';
 
 export default function Home() {
   return (
